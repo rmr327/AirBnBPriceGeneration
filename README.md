@@ -1,6 +1,6 @@
 # AirBnBPriceGeneration
 
-Read the PDF for a report on this project.
+This project was done in R programming Language. Read the PDF for a report on this project.
 
 # Report for Airbnb Executives
 
