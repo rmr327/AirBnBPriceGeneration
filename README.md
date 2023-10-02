@@ -1,6 +1,6 @@
 # Airbnb Price Generation - R (Programming Language)
 
-This project was done in R programming Language. Read the PDF for a report on this project.
+*** Read the PDF report on this project.
 
 # Report for Airbnb Executives
 
